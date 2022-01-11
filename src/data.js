@@ -727,9 +727,13 @@ const LANGUAGES_LIST = {
     name: 'Zhuang',
     nativeName: 'Saɯ cueŋƅ',
   },
-  zh: {
-    name: 'Chinese',
-    nativeName: '中文',
+  zhTW: {
+    name: 'Chinese Traditional',
+    nativeName: '中國傳統的',
+  },
+  zhCN: {
+    name: 'Chinese Simplified',
+    nativeName: '簡體中文',
   },
   zu: {
     name: 'Zulu',
